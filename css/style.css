@@ -640,7 +640,7 @@ form .form-control {
 .navbar-toggle {
     background-color: rgba(0, 0, 0, 0.1);
     border: 1px solid #fff;
-    border-radius: 0;
+    border-radius: 0.5;
 }
 
 .navbar-toggle .icon-bar {
